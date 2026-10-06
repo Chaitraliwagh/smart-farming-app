@@ -3,6 +3,15 @@
 ## 📋 Overview
 A complete web application designed for small and medium-scale farmers to leverage AI/ML for sustainable farming practices.
 
+## 🌟 Key Highlights
+
+- 🌱 **AI-Powered Farming Assistance** – Combines machine learning and real-time data to support smarter agricultural decisions.
+- 🌐 **Multilingual Experience** – Supports English, Hindi, and Marathi for better accessibility.
+- 🧠 **Multiple ML Solutions** – Integrates crop recommendation, fertilizer recommendation, and plant disease detection.
+- 🌦️ **Weather-Aware Decisions** – Uses live weather data and forecasts to assist farmers in planning activities.
+- 📊 **Full-Stack Architecture** – Built with React, Node.js, Flask, MongoDB, and ML services.
+- ♻️ **Sustainability Focused** – Designed to encourage efficient use of resources and data-driven farming practices.
+
 ## ✨ Features
 1. **Multilingual Interface** - English, Hindi, Marathi
 2. **Plant Disease Detection** - Upload leaf images for disease identification
